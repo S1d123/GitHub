@@ -1,1 +1,2 @@
 New File
+I am appending the contents of the file
